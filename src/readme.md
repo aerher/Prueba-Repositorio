@@ -11,4 +11,5 @@
 ```
 
 ## **imagen de estructura**
-![Estructura](short1Terminal.jpg)
+![Estructura](../assets/short1Terminal.jpg)
+
