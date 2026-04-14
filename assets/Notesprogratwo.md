@@ -122,6 +122,11 @@ public class Suma{
   - ls -a para llamar a todos los documentos sin restrinciones  
   - cat : es para revisar documentos que esten guardados o destinados a llevar autoguardado.
   - .md : para crear documentos de texto
+  ## Comandos para Markdown  
+  - ![titulo de la imagen a presentar](colocar ruta especifica de la imagen): es para presentacion de imagenes en un markdown y que se exporte a un pdf para presentacion formales  
+
 ## Actividad 13/04  
 - git log -d--decorate --oneline : es para saber cuando mcomit he hecho sobre mi proyecto y ver cambios y modificaciones  
-- congit <"name ">  : es para darte una etiqueta a un commit que sea importante de todos los commit que he realizado  
+- git tag <"name ">  : es para darte una etiqueta a un commit que sea importante de todos los commit que he realizado  
+-  git branch : para ver las ramas que tengo de mi git o repositorio que he ido haciendo commit  
+-  
